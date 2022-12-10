@@ -14,6 +14,6 @@
         <a href="https://pomelo.io/grants/subdeeplyla" target="_blank">Pomelo</a> •
     <a href="https://twitter.com/mediagenki" target="_blank">Twitter</a>
 </p>
-<p align="center">
+<h2 align="center">
 Genki operates its own infrastructure and develops open source solutions.
-</p>
+</h2>
