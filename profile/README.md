@@ -15,5 +15,5 @@
     <a href="https://twitter.com/mediagenki" target="_blank">Twitter</a>
 </p>
 <h2 align="center">
-Genki operates its own infrastructure and develops open source solutions.
+Genki operate own infrastructure, databases and servers and develops open source solutions.
 </h2>
